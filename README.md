@@ -6,8 +6,8 @@ My name is Bruno Carvalho, I have been developing since 2018 and currently work 
 
 ### Stacks
 
-:dragon: - Node JS
+:dragon:    Node JS
 
-:computer: - React JS
+:computer:   React JS
 
-:iphone: - React Native
+:iphone:   React Native
