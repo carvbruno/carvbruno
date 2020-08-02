@@ -14,6 +14,6 @@ My name is Bruno Carvalho, I have been developing since 2018 and currently work 
 
 ### Learning
 
-:snake: - Phyton
+:snake: - Python
 
 :cl: - Clojure
