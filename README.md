@@ -6,14 +6,14 @@ My name is Bruno Carvalho, I have been working with development since 2019 and I
 
 ### Stacks
 
-:dragon: - Node JS
+:dragon: - node JS
 
-:computer: - React JS
+:computer: - react JS
 
-:iphone: - React Native
+:iphone: - react native
 
 ### Learning
 
-:snake: - Python
+:snake: - python
 
-:cl: - Clojure
+:cl: - clojure
